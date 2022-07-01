@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redone/static/css/main.80e5b9cd.css",
+    "main.js": "/redone/static/js/main.32e10320.js",
+    "static/js/787.28cb0dcd.chunk.js": "/redone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sunset.jpg": "/redone/static/media/sunset.b736da1dad694f520689.jpg",
+    "index.html": "/redone/index.html",
+    "main.80e5b9cd.css.map": "/redone/static/css/main.80e5b9cd.css.map",
+    "main.32e10320.js.map": "/redone/static/js/main.32e10320.js.map",
+    "787.28cb0dcd.chunk.js.map": "/redone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e5b9cd.css",
+    "static/js/main.32e10320.js"
+  ]
+}
